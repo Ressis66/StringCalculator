@@ -1,0 +1,11 @@
+com\mycompany\stringcalculator\operators\MinusInteger.class
+com\mycompany\stringcalculator\operators\SubtractInteger.class
+com\mycompany\stringcalculator\operators\MultiplyInteger.class
+com\mycompany\stringcalculator\RPNIntegerCalculator.class
+com\mycompany\stringcalculator\operators\AddInteger.class
+com\mycompany\stringcalculator\operators\DivideInteger.class
+com\mycompany\stringcalculator\ExpressionParser.class
+com\mycompany\stringcalculator\RPNCalculator.class
+com\mycompany\stringcalculator\Operand.class
+com\mycompany\stringcalculator\operators\Operator.class
+com\mycompany\stringcalculator\Token.class
